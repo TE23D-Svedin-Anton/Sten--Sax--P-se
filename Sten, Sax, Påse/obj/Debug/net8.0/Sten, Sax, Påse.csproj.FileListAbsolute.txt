@@ -1,0 +1,14 @@
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\bin\Debug\net8.0\Sten, Sax, Påse.exe
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\bin\Debug\net8.0\Sten, Sax, Påse.deps.json
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\bin\Debug\net8.0\Sten, Sax, Påse.runtimeconfig.json
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\bin\Debug\net8.0\Sten, Sax, Påse.dll
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\bin\Debug\net8.0\Sten, Sax, Påse.pdb
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.AssemblyInfoInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.AssemblyInfo.cs
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.csproj.CoreCompileInputs.cache
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.dll
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\refint\Sten, Sax, Påse.dll
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.pdb
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.genruntimeconfig.cache
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\ref\Sten, Sax, Påse.dll
