@@ -12,3 +12,4 @@ C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\
 C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.pdb
 C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.genruntimeconfig.cache
 C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\ref\Sten, Sax, Påse.dll
+C:\Users\anton.svedin\Documents\Programmering\Sten, Sax, Påse\Sten, Sax, Påse\obj\Debug\net8.0\Sten, Sax, Påse.sourcelink.json

@@ -35,7 +35,7 @@ while (spelaIgen)
 
     while (!SpelaIgenSvar)
     {
-        Console.Write("\nVill du spela igen? (ja/nej): "); 
+        Console.Write("\nVill du spela igen? (ja/nej): ");
         svar = Console.ReadLine().ToLower();
 
         if (svar == "ja" || svar == "nej") // Checkar så svaren är giltiga
@@ -51,6 +51,7 @@ while (spelaIgen)
             Console.WriteLine($"Hörre du, du det är ett ja eller nej inte {spelarensval}!"); // Säger till spelaren att svaret ej är gilltigt
         }
     }
+    Console.Clear(); // Ta bort allt från förra rundan så blir det mer cleant
 
 }
 
@@ -66,4 +67,3 @@ while (spelaIgen)
 
         return "Datorn vann!"; // annars vinner dator
     }
-    

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sten, Sax, Påse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8ed89d4e26d3b847d77502b4500f02c1ded9d40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sten, Sax, Påse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sten, Sax, Påse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
